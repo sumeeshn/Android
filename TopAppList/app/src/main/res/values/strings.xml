@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Apps Activity</string>
+    <string name="title">Title</string>
+    <string name="appimg">AppImg</string>
+    <string name="all">Show All</string>
+    <string name="fav">Show Favourites</string>
+
+    <string name="AppTitle" />
+    <string name="title_activity_sign_up">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="submitLabel">Submit</string>
+    <string name="showLabel">Show</string>
+
+    <!-- Strings related to login -->
+
+
+    <string name="action_create_account">Create Account</string>
+
+    <string name="action_sign_up">Sign Up</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="prompt_fullname">Full Name</string>
+</resources>
