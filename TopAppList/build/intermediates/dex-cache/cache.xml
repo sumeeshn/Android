@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_035d9a97efa0c7d33b12bad8f77931f989a6b7a6\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_ec9b1982b8968ed55853ff5a819edf44f38fe9be\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_583242567e943c9b931ec0ad19b9e20e6e8486ce\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6ef6fbed4c939b8d0de0c4a9dc32c0bbc290b7ec">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_596ba65e6600a49c2ac505a672cfe6f8d26c468f\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="50eaebff3e6d13be1b68438925e8a5128d7ba976">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_683bef7f5714286609963b331db6a88bc3a0bacf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nbhir\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_1b04bfb92f80a2f5f52d9de7b3247d6a169a2a29\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_e658ce81a3a79be3798b72626b7b7f7229a43df0\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_e4fc3d91242050eaec9053cd59d55cd70dda6572\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_137f4c00eab85b405e66569884ef2846ca35ea44\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.2_1fb7daff1639a5df08de083bbcae8c479fc77459\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.2_b3d1871ace55f102f567362954806d94cc0404a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_3e547e66e78589f0ecd5767346a693cbd845ef6b\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_6e9fd4bf8e75cebf2311256ff726d454a2e310f6\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_9717b7eb98d56b56263f8658e3625cbc8302bef5\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_644b703108753cde263672d25eb582f2284cc5af\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_e267fe871cbc3b40b96689a30accfdfddc7e295b\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.2_c0474eaefab00323ec08a53a15b3707d35120af7\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_1797975da110e0e7eb9307908358a941f316fef6\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.2_d488217dd200be45e5ff0c7b1cbe7dac370b5f81\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_9e1304d16f257380da46f9f988571d4c6a37a2ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_b0bbead826f7752101e7345028324ffc5db5f57e\classes.dex" />
+    </item>
+    <item
+        jar="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.2_f9a2f3c7cbf9a3a41f9080fc6137cee9d2833e16\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nbhir\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\GoogleDrive\Coding\AndroidStudioProjects\Group14_InClass09\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_773cbe835a132617d157d4b65b8fc043787572d4\classes.dex" />
+    </item>
+
+</items>
