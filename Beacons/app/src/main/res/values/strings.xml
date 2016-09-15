@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inclass03_beacon</string>
+    <string name="action_settings">Settings</string>
+    <string name="productimg">Product Image</string>
+    <string name="title">Product Name</string>
+
+</resources>
